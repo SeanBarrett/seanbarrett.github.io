@@ -27,6 +27,8 @@ title: "CV"
 <div class="cv-body-wrapper">
 <div class="cv-body">
 
+[Download this CV as a .pdf][cv]
+
 ## Education
 
 ### DPhil Astrophysics | *University of Oxford* <span class="cv-text-right">(October 2018 &#x2014; Present)</span>
@@ -94,3 +96,5 @@ title: "CV"
 
 </div>
 </div>
+
+[cv]: {{ site.url }}/assets/CV_Sean_Barrett.pdf

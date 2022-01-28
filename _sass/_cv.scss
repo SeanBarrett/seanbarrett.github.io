@@ -15,7 +15,7 @@ $pageWidth: 52rem;
 .cv-header {
     width: 100%;
     max-width: $pageWidth;
-    padding: 1.5rem 1.5rem 1.25rem 1.5rem;
+    padding: 1rem 1rem 1.25rem 1rem;
     margin-top: -1.5rem;
     display: flex;
     align-content: flex-start;
@@ -53,8 +53,9 @@ $pageWidth: 52rem;
 
 .cv-body {
     width: 100%;
-    margin: 1.5rem;
+    margin: 1rem;
     margin-top: 0.5rem;
+    // margin-bottom: 4rem;
     max-width: $pageWidth;
     line-height: 1.4;
     font-size: 110%;
@@ -86,6 +87,13 @@ $pageWidth: 52rem;
         margin-top: 0.25rem;
         @include bodyFont($weight: 600);
         margin-bottom: 0.5rem;
+    }
+
+    a {
+        color: inherit;
+        font-weight: 600;
+        font-style: italic;
+        text-decoration: underline;
     }
 }
 
