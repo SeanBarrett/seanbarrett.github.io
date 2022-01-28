@@ -9,10 +9,13 @@ title: "CV"
             <h2>Computational Physicist</h2>
         </div>
         <div>
-            <div class="cv-text-mono" style="margin: 1.5rem 0 0 0; font-size: 1.25rem">
+            <div class="cv-text-mono" style="margin: 1.5rem 0 0 0;font-size: 1.25rem">
+                <a href="https://seanbarrett.github.io/">seanbarrett.github.io</a>
+            </div>
+            <div class="cv-text-mono" style="margin: 0.5rem 0 0 0; font-size: 1.25rem">
                 <a href="mailto:sean.barrett@physics.ox.ac.uk">sean.barrett@physics.ox.ac.uk</a>
             </div>
-            <div class="cv-text-mono" style="margin: 1.0rem 0 0 0;font-size: 1.25rem">
+            <div class="cv-text-mono" style="margin: 0.5rem 0 0 0;font-size: 1.25rem">
                 <a href="tel:+447928048575">+447928048575</a>
             </div>
         </div>
