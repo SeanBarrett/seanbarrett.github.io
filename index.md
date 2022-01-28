@@ -88,7 +88,7 @@ title: "CV"
 * Writing CPU+GPU programs for supercomputers with MPI and CUDA
 * Profiling and tracing distributed programs with open-source tools
 * Machine Learning with scikit-learn and Keras
-* Document preparation with $$\rm\LaTeX$$ (and html + css)
+* Document preparation with $$\rm\LaTeX$$ (and HTML + CSS)
 * Version control with git
 * Diagram illustration with vector graphics software
 
